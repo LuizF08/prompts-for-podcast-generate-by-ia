@@ -8,6 +8,13 @@ Este é o repositório desenvolvido para criar um podcast utilizando ferramentas
 ## 🎯 Objetivo
 Gerar um podcast abordando temas relevantes com o suporte de ferramentas de Inteligência Artificial. O tema deste projeto é **"Os desafios da inteligência artificial na substituição da mão de obra no setor bancário"**.
 
+## 🎧 Ouça o Podcast
+
+Você pode ouvir o episódio diretamente clicando no link abaixo:
+
+[🎙️ IA e o Futuro do Trabalho Bancário](https://link-para-o-podcast.com)
+
+
 ---
 
 ## 💻 Tecnologias Utilizadas no Projeto
@@ -38,5 +45,4 @@ Gerar um podcast abordando temas relevantes com o suporte de ferramentas de Inte
 
 - **Modelo de Prompts**: Este repositório inclui exemplos de prompts utilizados em cada etapa.
 - **Editor de Áudio**: Ferramenta externa para ajustar o áudio final.
-- **Referência Visual**: Imagem gerada pelo DALL·E incluída na pasta `/assets`.
-
+- **Referência Visual**: Imagem gerada pelo DALL·E 
