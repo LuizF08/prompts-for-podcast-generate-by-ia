@@ -12,7 +12,7 @@ Gerar um podcast abordando temas relevantes com o suporte de ferramentas de Inte
 
 Você pode ouvir o episódio diretamente clicando no link abaixo:
 
-[🎙️ IA e o Futuro do Trabalho Bancário](https://link-para-o-podcast.com)
+[🎙️ IA e o Futuro do Trabalho Bancário](IA_e_Futuro_Trabalho_Bancario_further_compressed.mp3
 
 
 ---
